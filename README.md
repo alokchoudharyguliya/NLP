@@ -8,5 +8,6 @@
 
 ## TextVectorization layer
 - combines both tokenization and numericalization step of NLP
+- includes padding
 
 ## Divide into BATCHES
